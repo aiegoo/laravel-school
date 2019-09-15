@@ -1,0 +1,3 @@
+[submodule "laravel-school"]
+	path = laravel-school
+	url = https://github.com/aiegoo/laravel-school.git
